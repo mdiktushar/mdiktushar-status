@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/mdiktushar/mdiktushar-status/master/profile-summary-card-output/noctis_minimus/4-productive-time.svg)
-```
-
-    

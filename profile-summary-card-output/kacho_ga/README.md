@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/mdiktushar/mdiktushar-status/master/profile-summary-card-output/kacho_ga/4-productive-time.svg)
-```
-
-    
