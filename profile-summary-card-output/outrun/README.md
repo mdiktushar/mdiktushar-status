@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/mdiktushar/mdiktushar-status/master/profile-summary-card-output/outrun/4-productive-time.svg)
+```
+
+    
